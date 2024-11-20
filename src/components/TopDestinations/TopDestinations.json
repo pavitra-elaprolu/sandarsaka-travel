@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Paris",
+      "image": "https://img.freepik.com/premium-photo/view-eiffel-tower-downtown-paris-france_1258715-41656.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid"
+      
+    },
+    {
+      "id": 2,
+      "name": "New York",
+      "image": "https://img.freepik.com/premium-photo/statue-liberty-stands-front-city-skyline_805008-120.jpg?w=740"
+      
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "image": "https://img.freepik.com/free-photo/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan_335224-177.jpg?t=st=1724142136~exp=1724145736~hmac=9a3c64f192dca01f75e401cceebd723d19ea6a115b3c17cf57dc784872e08965&w=826"
+      
+    },
+    {
+        "id": 4,
+        "name": "Varanasi",
+        "image": "https://img.freepik.com/premium-photo/elegant-minimalist-art-depicting-varanasis-cultural-spiritual-charm_1141064-20394.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid"
+        
+      },
+      {
+        "id": 5,
+        "name": "Bangkok",
+        "image": "https://img.freepik.com/premium-photo/wat-arun-buddhist-religious-places-twilight-time_35977-550.jpg?w=826"
+        
+      },
+      {
+        "id": 6,
+        "name": "Singapore",
+        "image": "https://img.freepik.com/premium-photo/merlion-statue-icon-singapores-national-day_972034-4385.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid"
+        
+      }
+    
+  ]
+  

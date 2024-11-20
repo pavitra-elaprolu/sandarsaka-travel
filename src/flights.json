@@ -1,0 +1,93 @@
+[
+    {
+      "flightId": 1,
+      "flightName": "AI-202",
+      "departure": "Hyderabad",
+      "destination": "Delhi",
+      "departureTime": "10:00 AM",
+      "arrivalTime": "12:30 PM",
+      "amount": 6500
+    },
+    {
+      "flightId": 2,
+      "flightName": "AI-303",
+      "departure": "Hyderabad",
+      "destination": "Mumbai",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 7500
+    },
+    {
+      "flightId": 3,
+      "flightName": "AI-404",
+      "departure": "Delhi",
+      "destination": "Bangkok",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 22000
+    },
+    {
+      "flightId": 4,
+      "flightName": "AI-505",
+      "departure": "Mumbai",
+      "destination": "London",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 50000
+    },
+    {
+      "flightId": 5,
+      "flightName": "AI-606",
+      "departure": "Hyderabad",
+      "destination": "Singapore",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 30000
+    },
+    {
+      "flightId": 6,
+      "flightName": "AI-707",
+      "departure": "Delhi",
+      "destination": "New York",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 60000
+    },
+    {
+      "flightId": 7,
+      "flightName": "AI-808",
+      "departure": "Mumbai",
+      "destination": "Dubai",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 18000
+    },
+    {
+      "flightId": 8,
+      "flightName": "AI-909",
+      "departure": "Hyderabad",
+      "destination": "Paris",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 35000
+    },
+    {
+      "flightId": 9,
+      "flightName": "AI-1010",
+      "departure": "Delhi",
+      "destination": "Tokyo",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 45000
+    },
+    {
+      "flightId": 10,
+      "flightName": "AI-1111",
+      "departure": "Mumbai",
+      "destination": "Sydney",
+      "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+      "amount": 55000
+    }
+  ]
+  

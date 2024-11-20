@@ -1,0 +1,44 @@
+.card {
+    transition: transform 0.3s ease;
+    height: 300px; /* Increased height for better layout */
+    position: relative; /* Ensures that child elements are positioned relative to the card */
+    overflow: hidden;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-img-top {
+    height: 100%; /* Ensures the image covers the card */
+    object-fit: cover; /* Maintains the aspect ratio of the image */
+  }
+  
+  .card-title {
+    position: absolute;
+    top: 0;
+    left: 60%;
+    right: 0;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: white;
+   
+    z-index: 1;
+    text-align: center; /* Center the title */
+  }
+  
+  .card-text {
+    color: #555;
+    margin-top: auto;
+  }
+  
+  .destinationImage {
+    height: 100%; /* Adjust height for image to cover the card */
+    object-fit: cover; /* Maintain aspect ratio */
+    position: relative;
+  }
+  .title{
+    font-size: 2rem;
+  }
+  

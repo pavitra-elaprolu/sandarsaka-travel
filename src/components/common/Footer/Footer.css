@@ -1,0 +1,40 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+  }
+  
+  .footer h2, .footer h3 {
+    color: #fff;
+  }
+  
+  .footer-section {
+    margin-bottom: 20px;
+  }
+  
+  .footer-section p,
+  .footer-section a {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  .footer-section a:hover {
+    color: #fff;
+  }
+  
+  .social-icons {
+    margin-top: 15px;
+  }
+  
+  .social-icon {
+    margin-right: 15px;
+    color: #ccc;
+    font-size: 20px;
+  }
+  
+  .social-icon:hover {
+    color: #fff;
+  }
+  li{
+    margin:10px;
+  }

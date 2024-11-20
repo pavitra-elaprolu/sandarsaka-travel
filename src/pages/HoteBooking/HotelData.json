@@ -1,0 +1,106 @@
+[
+    {
+      "id": 1,
+      "name": "The Grand Hyatt",
+      "location": "New York, USA",
+      "price": 250,
+      "image": "https://media.istockphoto.com/id/119926339/photo/resort-swimming-pool.jpg?s=612x612&w=0&k=20&c=9QtwJC2boq3GFHaeDsKytF4-CavYKQuy1jBD2IRfYKc=",
+      "images":[
+           "https://img.freepik.com/free-photo/view-luxurious-hotel-interior-space_23-2150683483.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+           "https://img.freepik.com/premium-photo/product-photo-base-photography-backdrop-product-photography-setup-studio-backdrop-photography-pl_1246444-23245.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+           "https://img.freepik.com/free-photo/view-luxurious-hotel-interior-space_23-2150683401.jpg?t=st=1724236038~exp=1724239638~hmac=aecf49af7bda75e5a4ef40a6a9e0b6e63d209baf38cdd57855fa13bf4a5e86ab&w=826",
+           "https://www.theluxevoyager.com/wp-content/uploads/2019/06/Grand-Hyatt-Mumbai-Hotel-Inner-View-971x546.jpg",
+           "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/f0/89/14/guest-room.jpg?w=700&h=-1&s=1",
+           "https://www.kayak.co.in/rimg/himg/38/93/ba/ice-49894-66931500_3XL-589214.jpg?width=1366&height=768&crop=true"
+
+      ],
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    },
+    {
+      "id": 2,
+      "name": "Hotel Paris",
+      "location": "Paris, France",
+      "price": 300,
+      "image": "https://img.freepik.com/free-photo/chateau-frontenac-night-quebec-city_649448-2204.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+      "images":[
+        "https://media.architecturaldigest.com/photos/5dea72df649df00009cd1b2b/master/w_1600%2Cc_limit/suite%2520Arc%2520de%2520Triomphe%2520-%2520435%2520-%25203.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjuTknzA0LsemnmeR_ioA6p-KBoqnzAINMQ&s",
+        "https://bushbaby.travel/wp-content/uploads/2021/10/WEB-JPN-HOTEL-The-Keio-Plaza-Hotel-Tokyo-Room-Interior-Day.jpg",
+        "https://www.designcontract.eu/wp-content/uploads/2020/12/TOP-Interior-Designer-France.jpg",
+        "https://www.idesignarch.com/wp-content/uploads/The-Hoxton-Boutique-Hotel-Paris-France_2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF28vK-UvWCzLVd7M70zoqP_q15gsRPfykhA&s"
+   ],
+      "latitude": 48.856613,
+      "longitude": 2.352222
+    },
+    {
+      "id": 3,
+      "name": "Tokyo Plaza Hotel",
+      "location": "Tokyo, Japan",
+      "price": 200,
+      "image": "https://img.freepik.com/premium-photo/catarina-building_1076458-1489.jpg?w=740",
+      "images":[
+        "https://bushbaby.travel/wp-content/uploads/2021/10/WEB-JPN-HOTEL-The-Keio-Plaza-Hotel-Tokyo-Room-Interior-Day.jpg",
+        "https://img.freepik.com/free-photo/view-luxurious-hotel-interior-space_23-2150683439.jpg?t=st=1724238085~exp=1724241685~hmac=6b2cfe5cc113801fa2814e4e5edf40c4b1e94f811c9730534b14ec6d31f91f4a&w=826",
+        "https://img.freepik.com/premium-photo/hotel-room-with-large-picture-city-skyline-cityscape_638341-2828.jpg?w=996",
+        "https://img.freepik.com/free-photo/cinematic-style-mall_23-2151551295.jpg?t=st=1724239369~exp=1724242969~hmac=576b2854d79286d5e90a83065c0809aac039f634f9be52e94cc506d4947e0e28&w=996",
+        "https://img.freepik.com/free-photo/3d-rendering-luxury-bedroom-suite-resort-hotel-with-twin-bed-living_105762-2018.jpg?t=st=1724239538~exp=1724243138~hmac=f07be820e5c96aaefc53689f1125b2c545df48aa2d1b12901cebd8096f73d592&w=826",
+        "https://img.freepik.com/free-photo/digital-lavender-interior-design_23-2151561244.jpg?t=st=1724239452~exp=1724243052~hmac=8e7856b0b3250586bfd87fc0265fe40b22635587b325e7ac5343c17d60447373&w=996"
+   ],
+      "latitude": 35.689487,
+      "longitude": 139.691711
+    },
+    {
+      "id": 4,
+      "name": "Sydney Harbour Hotel",
+      "location": "Sydney, Australia",
+      "price": 280,
+      "image": "https://img.freepik.com/premium-photo/host-digital-picnic-celebration-australia-da-generative-ai_1169651-104996.jpg?w=826",
+      "images":[
+        "https://img.freepik.com/free-photo/spacious-hotel-room-with-rug_1203-1495.jpg?t=st=1724239649~exp=1724243249~hmac=bdee9eac8478aedac315d232978a1dff6e1e8065044bf332a292ef100684da79&w=826",
+        "https://img.freepik.com/free-photo/outdoor-swimming-pool_1203-2954.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/premium-photo/dubai-sea-view-inside-room-big-glass_916191-128750.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/premium-photo/iconic-london-skyline-sunset-featuring-famous-landmarks-reflective-thames-views_875722-65189.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/premium-photo/apartment-with-bedroom-living-space_1262410-215.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/premium-photo/conference-couture-office-setting-photo_960396-66070.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid"
+   ],
+      "latitude": -33.868820,
+      "longitude": 151.209296
+    },
+    {
+      "id": 5,
+      "name": "The Ritz London",
+      "location": "London, UK",
+      "price": 350,
+      "image": "https://img.freepik.com/premium-photo/historic-city-hotel-building_87720-116035.jpg?w=996",
+      "images":[
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449664553.jpg?k=2b1a938dfe831685c7d89b6d1d489bb5c8ca02c505b002e3319991e0572e08e4&o=&hp=1",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS5wl8_yd8cS-qL3Kw6k0ssogKwvCz7qNiYQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc974JjiouoRvdTkAzgnqHi7oCBkNeXj355A&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MRiYo0lXkOZcT0iurdzUUU_wkMpbsGZxAA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngBu3k3vmu6Ww1DlTWgDUgJqF61SE0wclcA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2HkMnkHjiXJZhhrMoNC8k5YJaOZlwBVP83g&s"
+   ],
+      "latitude": 51.507351,
+      "longitude": -0.127758
+    },
+    {
+      "id": 6,
+      "name": "Taj Hotel",
+      "location": "Mumbai,India",
+      "price": 150,
+      "image": "https://static.toiimg.com/photo/96586840.cms",
+      "images":[
+        "https://img.freepik.com/premium-photo/taj-hotel-images_1015255-249840.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/free-photo/restaurant-private-room-with-blue-chairs-white-walls-fireplace-wide-window_140725-8454.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/free-photo/3d-rendering-beautiful-luxury-dark-wood-european-classic-bedroom-suite-hotel_105762-2164.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/premium-photo/modern-hotel-arabic-interior-holidays-arab-countries-creative-interior-muslim-style_1042814-47922.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://img.freepik.com/premium-photo/opulent-palace-el-rajasthan-with-royal-suites-p-generative-ai_1169665-69267.jpg?ga=GA1.1.1094676085.1723314278&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc974JjiouoRvdTkAzgnqHi7oCBkNeXj355A&s"
+   ],
+      "latitude": 51.507351,
+      "longitude": -0.127758
+    }
+  ]
+  

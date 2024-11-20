@@ -1,0 +1,77 @@
+.about-us-section {
+    background-color: #f9f9f9; /* Soft background color */
+    padding: 60px 0;
+  }
+  
+  .hero-section {
+    background-color:var(--primaryColor); /* Primary color background for hero section */
+    color: white;
+    padding: 60px 20px;
+    border-radius: 8px;
+  }
+  
+  .hero-section h1 {
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+  }
+  
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color:var(--primaryColor);
+    margin-bottom: 30px;
+  }
+  
+  .story-section {
+    background-color: white; /* Background for story section */
+    padding: 40px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .story-text {
+    font-size: 1.2rem;
+    color: #555; /* Softer text color */
+    line-height: 1.8;
+  }
+  
+  .founder-section {
+    background-color: white;
+    padding: 40px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .founder-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 4px solid #007bff; /* Border to highlight the image */
+  }
+  
+  .founder-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .founder-title {
+    font-size: 1.2rem;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .founder-text {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.8;
+  }
+  

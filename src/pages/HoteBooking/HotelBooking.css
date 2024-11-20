@@ -1,0 +1,32 @@
+.hotel-cards-container {
+    overflow-x: auto;
+    display: flex;
+    padding: 20px;
+    scrollbar-width:none;
+    cursor: pointer;
+  }
+  
+  .hotel-cards-container .row {
+    flex-wrap: nowrap;
+  }
+  
+  .hotel-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .hotel-image {
+    height: 200px;
+    object-fit:cover;
+  }
+  
+  
+ 
+  @media (max-width:570px){
+    .hotel-cards-container{
+      display:flex;
+      flex-direction: column;
+      overflow-wrap: break-word;
+    }
+  }
